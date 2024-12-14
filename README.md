@@ -27,9 +27,6 @@ The system is capable of providing relevant movie recommendations based on their
 3. Run the code blocks sequentially to train the model and get recommendations.
 4. To get movie recommendations, call the `give_rec()` function with the title of a movie.
 
-## Project Links
-- **[View Project on Colab](https://colab.research.google.com/drive/1wP9ny0dLKIsyw_iG0rf09n_Y3dw3zN37?usp=sharing)**
-
 ## Installation
 1. Clone the repository using Git:
     ```bash
