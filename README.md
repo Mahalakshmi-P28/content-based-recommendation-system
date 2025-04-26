@@ -51,5 +51,3 @@ This project is open-source and available under the **MIT License**.
 ## Acknowledgements
 - Movie data is sourced from the **TMDb dataset**.
 - The recommendation system is based on **content-based filtering** techniques commonly used in information retrieval and recommendation systems.
-
->>>>>>> master
