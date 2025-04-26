@@ -13,6 +13,10 @@ This is a Movie Recommendation System built using a dataset of movies and their 
 - **Scikit-learn**: For creating the TF-IDF vectorizer and calculating similarity.
 - **Streamlit**: For building the interactive web UI.
 
+## Live Demo
+Check out the live deployment of the Movie Recommendation System here:  
+🔗 [Live Demo - Movie Recommendation System]https://mahalakshmi-p28-content-based-recommendation-system-app-gis9tv.streamlit.app/
+
 ## Requirements
 
 To run this project, you need to have Python and the necessary dependencies installed. You can install the required packages using `pip`:
@@ -20,8 +24,8 @@ To run this project, you need to have Python and the necessary dependencies inst
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ro-shni/Movie_Recommendation.git
-   cd Movie_Recommendation
+   git clone https://github.com/Mahalakshmi-P28/content-based-recommendation-system
+   cd content-based-recommendation-system
    ```
 2. Install Dependencies
   ```bash
